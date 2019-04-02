@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../git1" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis1" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis10" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis11" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis12" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis13" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis14" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis2" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis3" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis4" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis5" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis6" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis7" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis8" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatis9" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatishomework" />
+    <file type="web" url="file://D:/mybatishomework/src/main/java" />
+    <file type="web" url="file://D:/mybatishomework/src/main/resources" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatishomework/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis1/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis3/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis4/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis5/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis7/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis8/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis10/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis11/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis12/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis13/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis14/pom.xml" />
+        <option value="$PROJECT_DIR$/../git1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mybatishomework/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/mybatishomework/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
